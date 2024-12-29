@@ -24,6 +24,9 @@ section {
     font-weight: 900;
     /* line-height: 95px; */
 }
+.primary-color{
+    color: #F00;
+}
 
 main {
     max-width: 1320px;
@@ -35,4 +38,8 @@ main {
     background-image:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("../images/Banner\ Image.png");
     background-repeat: no-repeat;
     padding: 200px 350px;  
+}
+
+.new-year-discount{
+    text-align:center;
 }
